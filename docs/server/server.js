@@ -504,7 +504,7 @@ const manifest = {
 	error: Error$1
 };
 
-const build_dir = "site";
+const build_dir = "docs";
 
 const subscriber_queue = [];
 /**
