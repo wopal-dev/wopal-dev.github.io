@@ -1,5 +1,8 @@
-<script context="module">
-	export async function preload({ params }) {
+<script context="module" lang="ts">
+
+	import type { Preload } from "@sapper/common";
+
+	export const preload: Preload = async function(this, { params }) {
 		// the `slug` parameter is available because
 		// this file is called [slug].svelte
 		const res = await this.fetch(`blog/${params.slug}.json`);
@@ -13,8 +16,8 @@
 	}
 </script>
 
-<script>
-	export let post;
+<script lang="ts">
+	export let post: { slug: string; title: string, html: any };
 </script>
 
 <style>

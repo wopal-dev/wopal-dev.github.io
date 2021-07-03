@@ -1,0 +1,41 @@
+nav.svelte-do3x39{border-bottom:1px solid rgba(255, 255, 255, 0.1);font-weight:300;padding:0 1em}ul.svelte-do3x39{margin:0;padding:0}ul.svelte-do3x39::after{content:'';display:block;clear:both}li.svelte-do3x39{display:block;float:left}[aria-current].svelte-do3x39{position:relative;display:inline-block}[aria-current].svelte-do3x39::after{position:absolute;content:'';width:calc(100% - 1em);height:2px;background-color:rgb(172, 169, 169);display:block;bottom:-1px}a.svelte-do3x39{text-decoration:none;padding:1em 0.5em;display:block}
+svg.svelte-c8tyih{stroke:currentColor;fill:currentColor;stroke-width:0;width:100%;height:auto;max-height:100%}
+body {
+	margin: 0;
+	font-family: Helvetica Neue, Roboto, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	background-color: #21262d;
+	color: #f0f0f0;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+a {
+	color: inherit;
+}
+
+code {
+	font-family: menlo, inconsolata, monospace;
+	tab-size: 2;
+}
+
+pre {
+	font-family: menlo, inconsolata, monospace;
+	font-size: calc(1em - 2px);
+	color: #555;
+	border-radius: 2px;
+	white-space: pre;
+	tab-size: 2;
+	padding: 1rem;
+}
+
+@media (min-width: 400px) {
+	body {
+		font-size: 16px;
+	}
+}
+header.svelte-r7ij3c.svelte-r7ij3c{display:flex;align-items:flex-end;padding:0.5rem 2rem;color:white;background-color:#333333}header.svelte-r7ij3c h1.svelte-r7ij3c{margin:0 0 0 0}header.svelte-r7ij3c a.svelte-r7ij3c{text-decoration:none}header.svelte-r7ij3c p.svelte-r7ij3c{margin:0 0 0.25rem 1rem;color:"#666666"}main.svelte-r7ij3c.svelte-r7ij3c{position:relative;max-width:56em;padding:2em;margin:0 auto;box-sizing:border-box}.icon.svelte-r7ij3c.svelte-r7ij3c{color:white;width:28px;height:28px;margin:0.15rem 0.5rem;transition:color 0.3s ease}.npm.svelte-r7ij3c.svelte-r7ij3c{color:#cb3837}.npm.svelte-r7ij3c.svelte-r7ij3c:hover{color:#c96d6d}.github.svelte-r7ij3c.svelte-r7ij3c{color:rgb(240, 246, 252)}.github.svelte-r7ij3c.svelte-r7ij3c:hover{color:white}
+h1.svelte-8od9u6,p.svelte-8od9u6{margin:0 auto}h1.svelte-8od9u6{font-size:2.8em;font-weight:700;margin:0 0 0.5em 0}p.svelte-8od9u6{margin:1em auto}@media(min-width: 480px){h1.svelte-8od9u6{font-size:4em}}
