@@ -5,8 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "sapper dev",
-    "build": "sapper build --legacy",
-    "export": "sapper export docs --legacy",
+    "build": "sapper build",
+    "export": "PORT=5441 sapper export docs",
     "start": "node __sapper__/build",
     "serve": "sirv docs/ --port 8080",
     "validate": "svelte-check --ignore src/node_modules/@sapper",
