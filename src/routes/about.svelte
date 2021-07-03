@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>About</title>
+	<title>Tyrann IO - About</title>
 </svelte:head>
 
 <h1>About this site</h1>
@@ -24,7 +24,7 @@
 </p>
 
 <p>
-	My Blog (Simplified Chinese):
+	My blog (in Simplified Chinese):
 	<a href="https://blog.chenyu.pw">
 		blog.chenyu.pw
 	</a>

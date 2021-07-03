@@ -22,7 +22,7 @@ const apis = tyrann({
 			},
 		}
 	},
-};
+});
 `;
 
 	$: code2 = `{
@@ -32,8 +32,7 @@ const apis = tyrann({
 
 	$: install = `yarn add tyrann-io
 # OR
-npm i tyrann-io
-`;
+npm i tyrann-io`;
 </script>
 
 <svelte:head>
@@ -101,6 +100,11 @@ npm i tyrann-io
 		making unchecked data into the system, leading to hard-to-trace problems.
 	</li>
 </ol>
+
+<p>
+	Our developers have tested <code>{`tyrann-io`}</code> in production for a few projects, proving its usefulness.
+	The typed client created with <code>{`tyrann-io`}</code> proves to be a vigilant sentinel to avoid error propagating in our app. 
+</p>
 
 <h2>Installation</h2>
 

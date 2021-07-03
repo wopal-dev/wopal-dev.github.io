@@ -18,6 +18,7 @@ a {
 code {
 	font-family: menlo, inconsolata, monospace;
 	tab-size: 2;
+	-moz-tab-size: 2;
 }
 
 pre {
@@ -28,6 +29,7 @@ pre {
 	white-space: pre;
 	tab-size: 2;
 	padding: 1rem;
+	-moz-tab-size: 2;
 }
 
 @media (min-width: 400px) {
