@@ -63,7 +63,7 @@ npm i tyrann-io`;
 <h3>Overview</h3>
 
 <p>
-	Tyrann is a TypeScript HTTP API mananger. It enables us to define HTTP APIs in
+	Tyrann is a TypeScript HTTP API manager. It enables us to define HTTP APIs in
 	the following fashion. 🎉
 </p>
 
