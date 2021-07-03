@@ -103,7 +103,7 @@ npm i tyrann-io`;
 
 <p>
 	Our developers have tested <code>{`tyrann-io`}</code> in production for a few projects, proving its usefulness.
-	The typed client created with <code>{`tyrann-io`}</code> proves to be a vigilant sentinel to avoid error propagating in our app. 
+	The typed client created with <code>{`tyrann-io`}</code> proves to be a vigilant sentinel to avoid errors propagating in our app. 
 </p>
 
 <h2>Installation</h2>
